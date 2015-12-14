@@ -1,4 +1,4 @@
-# Scripts_for_Casper
+# Scripts for Casper
 
 - Scripts for use on client Macs via Casper, variously appropriate:
     -in Configurations for Casper Imaging
