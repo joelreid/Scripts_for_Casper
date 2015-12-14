@@ -45,7 +45,6 @@ else
 	echo "$assetTag";
 fi
 
-sharingName="$assetTag";
 
 # # Currently-disabled sanity check for content of asset tag returned:
 #sharingNameOkay="$( echo "${sharingName}" | /usr/bin/grep -c "^[45678]{3,7}[0-9][a-z]\+$" )";
